@@ -14,7 +14,7 @@ Supported datasets currently include:
 
   1. Clone this repository:
   ```
-  git clone https://github.com/BBsjj/BBpose.git 
+  git clone https://github.com/salinasJJ/BBpose.git 
   ```
   2. Create a virtual environment (using Pipenv or Conda for example).
 
