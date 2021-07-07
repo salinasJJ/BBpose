@@ -1,6 +1,6 @@
-# BB-Action
+# BB-Pose
 
-BB-Action is a Tensorflow 2 training pipeline for human pose estimation. The aim of this codebase is to set up a foundation on which future projects might be able to build upon. Supported models currently include:
+BB-Pose is a Tensorflow 2 training pipeline for human pose estimation. The aim of this codebase is to set up a foundation on which future projects might be able to build upon. Supported models currently include:
 
   * **Hourglass Networks** [[1]](https://arxiv.org/abs/1603.06937)
   * **Softgated Skip Connections** [[2]](https://arxiv.org/abs/2002.11098)
