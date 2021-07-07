@@ -12,15 +12,15 @@ Supported datasets currently include:
 
 ## Installation
 
-  1. Create a directory (i.e. BBpose) to clone this repository into:
+  1. Clone this repository:
   ```
-  git clone https://github.com/bb-repo/bbpose.git PATH/TO/BBpose/ 
+  git clone https://github.com/BB-Repos/BBpose.git 
   ```
   2. Create a virtual environment (using Pipenv or Conda for example).
 
   3. Install the project onto your system:
   ```
-  pip install -e /PATH/TO/BBpose
+  pip install -e BBpose
   ```                                                               
   4. Install dependencies:
   ```
